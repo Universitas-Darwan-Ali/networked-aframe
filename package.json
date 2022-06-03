@@ -29,7 +29,7 @@
   "repository": "networked-aframe/networked-aframe",
   "dependencies": {
     "buffered-interpolation": "github:Infinitelee/buffered-interpolation",
-    "express": "^4.17.3",
+    "express": "^4.18.1",
     "open-easyrtc": "^2.0.13",
     "socket.io": "^2.4.1"
   },

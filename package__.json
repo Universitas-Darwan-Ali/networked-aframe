@@ -1,0 +1,24 @@
+{
+  "name": "networked-aframe",
+  "description": "[slack]: https://aframevr.slack.com/join/shared_invite/zt-f6rne3ly-ekVaBU~Xu~fsZHXr56jacQ",
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Universitas-Darwan-Ali/networked-aframe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Universitas-Darwan-Ali/networked-aframe/issues"
+  },
+  "homepage": "https://github.com/Universitas-Darwan-Ali/networked-aframe#readme"
+}
